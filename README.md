@@ -17,30 +17,36 @@
 ## 💼 Skills
 - **Programming Languages**: Python, JavaScript, SQL, NoSQL, HTML, CSS, Shell Scripting
 - **Operating Systems**: Kali Linux, Ubuntu, Windows, macOS
-- **Tools and Technologies**: VirtualBox, PowerShell, Splunk ES, IBM QRadar, Active Directory, AWS, Azure, Jira, Git, Docker, Office 365, GSuite, Burp Suite, Wireshark, tcpdump, Nmap, Nessus, Metasploit
+- **Tools and Technologies**: VirtualBox, PowerShell, Active Directory, AWS, Azure, Jira, Git, Docker, Office 365, GSuite, Burp Suite, Wireshark, tcpdump, Nmap, Nessus, Metasploit
 - **Security Knowledge**: Cloud Security, End Point Security, Incident Response, Vulnerability Management, GRC, ISO 27001/2, Security Firewall, DLP, SIEM, SOAR, EDR, MDM, EPP, WAF, IPS, IDS, UTM, IAM, SSO, MFA, DNS, TCP/IP
 - **Soft Skills**: Problem Solving, Communication, Leadership, Teamwork, Monitoring, Adaptability, Time Management
 
 ## 💻 Experience
-### Associate Consultant at Inexture Solutions LLP (Jun 2020 - Jul 2021)
+### Associate Consultant at Inexture Solutions LLP (Dec 2019 - Jul 2021)
 - Enhanced cybersecurity for Python-based solutions by 30%.
 - Designed secure authentication and authorization systems.
 - Developed custom link-shortening and automation-driven web scraping tools.
 
-### Trainee Consultant at Inexture Solutions LLP (Dec 2019 - Jun 2020)
-- Conducted monthly security testing using Nmap, Nessus, Burp Suite, and Wireshark.
-- Developed a secure web application with a 35% boost in user engagement.
+### Software Developer Intern at Softvan Pvt Ltd (Aug 2019 - Dec 2019)
+- Developed a Django REST-based blog site with social authentication and real-time updates.
+- Created a web application for courier services, increasing user engagement by 35%.
+
+### IT Support Technician at Akshvi Events (Jul 2016 - Jul 2019)
+- Provided end-user technical support, resolving a variety of hardware and software issues.
+- Achieved a 99% user satisfaction rating through effective communication and problem-solving.
 
 ## 🚀 Projects
 - **Privilege Escalation Attacks on Windows and Linux**: Researched and tested diverse privilege escalation attacks.
 - **Implementation of RSA Algorithm in Python**: Designed a Python program for public and private key operations using RSA.
 - **Exploitation of Janus Vulnerability in Android Devices**: Investigated CVE-2017-13156 and explored the risk of device takeover.
+- **Mapping Live Cyber Attacks with Azure Sentinel**: Developed a Windows 10 honeypot in Azure for monitoring unauthorized login attempts and visualizing global RDP brute force attack data in Azure Sentinel.
+- **Active Directory Home Lab Administration**: Established and managed an Active Directory Home Lab in Oracle Virtual Box with automated user account provisioning, maintenance, and network services management.
 
 ## 📜 Certifications
 - **CompTIA** Security+
 - **(ISC)2** Certified in Cybersecurity
-- **EC-Council** CEH (in progress)
 - **Fortinet** NSE 1 & 2
+- **Security Blue Team** Blue Team Junior Analyst (BJTA)
 - **HackerRank** Python Basics
 - **SkillFront** ISO/IEC 27001 Information Security Associate
 - **AttackIQ** Foundations of Operationalizing MITRE ATT&CK
