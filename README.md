@@ -7,7 +7,7 @@
 
 ## 🎓 Education
 - **Master of Engineering – Information Systems Security**
-  - Concordia University, Sep 2021 - Jul 2023
+  - Concordia University, Sep 2021 - Aug 2023
   - 🏆 GPA: 3.75/4.0 (Honors: Golden Key Honour Society, Dean’s list, Top 15%)
   
 - **Bachelor of Engineering – Information Technology**
